@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! I'm [Eftal Karayol], a passionate software developer with a focus on frontend technologies and the development of modern web applications. Here are some key features that define me:
+Hello! I'm Eftal Karayol, a passionate software developer with a focus on frontend technologies and the development of modern web applications. Here are some key features that define me:
 
 - **Technologies:** React, Redux, Redux Toolkit, JavaScript (ES6+), HTML, CSS, SCSS, Tailwind CSS, Bootstrap, TypeScript
 - **Architecture:** MVC (Model-View-Controller)
