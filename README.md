@@ -5,12 +5,7 @@
 
 ## About Me
 
-Hello! I'm Eftal Karayol, a passionate software developer with a focus on frontend technologies and the development of modern web applications. Here are some key features that define me:
-
-- **Technologies:** React, Redux, Redux Toolkit, JavaScript (ES6+), HTML, CSS, SCSS, Tailwind CSS, Bootstrap, TypeScript
-- **Architecture:** MVC (Model-View-Controller)
-- **Backend Integration:** Firebase
-- **Testing:** Unit tests (Example usage of a unit testing library)
+🚀 Passionate and detail-oriented Front-End Developer with expertise in React, Redux, Redux Toolkit, JavaScript (ES6+), HTML, CSS, SCSS, Tailwind CSS, and Bootstrap. I thrive on crafting immersive and responsive user interfaces, focusing on pixel-perfect designs that enhance the overall user experience. My proficiency extends to MVC architecture and TypeScript, and I bring hands-on experience in integrating Firebase for seamless real-time database functionalities.
 
 ## Contact
 
