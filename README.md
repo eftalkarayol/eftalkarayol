@@ -1,5 +1,5 @@
 
-# Hello, I'm [eftalkarayol]! 👋
+# Hello, I'm eftal karayol! 👋
 
 
 
