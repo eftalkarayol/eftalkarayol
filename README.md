@@ -12,7 +12,7 @@
 
 If you have any questions about my projects or if you're interested in collaboration, feel free to reach out:
 
-- GitHub: [eftalkarayol](https://github.com/eftalkarayol)
+
 - LinkedIn: [www.linkedin.com/in/eftalkarayol](www.linkedin.com/in/eftalkarayol)
 - Email: [eftal-karayol@hotmail.com](eftal-karayol@hotmail.com)
 
